@@ -1,12 +1,12 @@
-torch==1.10.2
-transformers==4.16.2
-scipy==1.7.3
-scikit-learn==1.0.2
-nltk==3.7.0
-datasets==1.18.3
-accelerate==0.5.1
-numpy==1.21.6
+tqdm==4.67.3
 pandas==1.1.5
-argparse==1.1
-tqdm==4.65.0
+numpy==1.21.6
+scikit-learn==1.0.2
+scipy==1.7.3
 
+accelerate==0.5.1
+nltk==3.9.2
+cramjam==2.8.3
+datasets==4.5.0
+torch==2.8.0
+transformers==4.57.6

@@ -3,7 +3,7 @@ This GitHub repository contains the official source code for Investigating Bias 
 
 ## Installation
 ```
-$ conda create --name CrossLingualBias python=3.7
+$ conda create --name CrossLingualBias python=3.9
 $ conda activate CrossLingualBias
 $ pip install -r requirements.txt
 ```
